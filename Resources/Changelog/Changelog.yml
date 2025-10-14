@@ -1,28 +1,4 @@
 ﻿Entries:
-- author: beck-thompson
-  changes:
-  - message: Removed the keep alive traitor objective.
-    type: Remove
-  id: 8594
-  time: '2025-05-31T02:09:17.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/37945
-- author: ScarKy0
-  changes:
-  - message: Priority mail now grants slightly more spesos if delivered on time, and
-      slightly less if done otherwise.
-    type: Tweak
-  - message: Bomb mail now explodes way after and deals slightly more damage.
-    type: Tweak
-  id: 8595
-  time: '2025-06-01T04:28:13.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/37986
-- author: TheFlyingSentry
-  changes:
-  - message: Added a new disability called Monochromacy, total colorblindness.
-    type: Add
-  id: 8596
-  time: '2025-06-01T05:31:46.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/37989
 - author: Hitlinemoss
   changes:
   - message: Cargo can now order the bulk cleanades crate, containing two cleanade
@@ -3943,3 +3919,24 @@
   id: 9096
   time: '2025-10-14T12:12:06.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/40898
+- author: kontakt
+  changes:
+  - message: Singulo now consumes carpet tiles.
+    type: Fix
+  id: 9097
+  time: '2025-10-14T18:27:58.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/40896
+- author: B_Kirill
+  changes:
+  - message: Fixed blocked rotation of zombie NPCs.
+    type: Fix
+  id: 9098
+  time: '2025-10-14T19:12:36.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/40812
+- author: temm1ie, aksosotl
+  changes:
+  - message: Added new botany-themed poster.
+    type: Add
+  id: 9099
+  time: '2025-10-14T19:42:59.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/40908
